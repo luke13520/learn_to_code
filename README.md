@@ -1,5 +1,12 @@
 # Learn to Code
 
+## Requirements
+
+- [ ] Install Ubuntu on Virtualbox: https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
+
+All exercices should be done in the Ubuntu VM.
+
+- [ ] Read about the Linux command line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 
 
 ## Table of contents
