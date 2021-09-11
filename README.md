@@ -4,6 +4,7 @@
 
 - [ ] Install Ubuntu on Virtualbox: https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
 
+> In VirtualBox use 2GB RAM & 20GB Disk
 > All exercises should be done in the Ubuntu VM.
 
 - [ ] Read about the Linux command line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
