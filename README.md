@@ -1,13 +1,32 @@
-# Learn to Code
+# Learn to Code (10% of the way)
 
 ## Requirements
 
 - [ ] Install Ubuntu on Virtualbox: https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
 
-All exercices should be done in the Ubuntu VM.
+> All exercises should be done in the Ubuntu VM.
 
 - [ ] Read about the Linux command line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
+- [ ] Create a Github account: https://github.com/
+- [ ] Follow the Git & Github for Beginners Crash Course: https://www.youtube.com/watch?v=RGOj5yH7evk
 
+> Install VS Code during the tutorial, it will be your main code editor
+
+- [ ] Fork this repository and start the exercices
+
+> Exercises solutions should be organized in their own folders in the right day folder.
+> For example for exercise 01 for day 0 it should be in `day00/ex01/testDay00.tar`
+
+- [ ] Install norminette: https://github.com/42School/norminette
+
+> All .c and .h files should not output any norminette error
+
+## Notes
+
+* Each day represents 5-20h of work for a student.
+* Google and the command `man` are you best friends.
+* It's hard but it's normal, it's the everyday life of a developer. There are no shortcuts.
+* At no point the goal will be to learn a language. The goal is to learn to learn new concepts. Learning languages is not the hard part, it will come naturally.
 
 ## Table of contents
 
