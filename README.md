@@ -4,6 +4,8 @@
 
 - [ ] Install Ubuntu on Virtualbox: https://www.wikihow.com/Install-Ubuntu-on-VirtualBox
 
+> In VirtualBox use 2GB RAM & 20GB Disk
+> 
 > All exercises should be done in the Ubuntu VM.
 
 - [ ] Read about the Linux command line: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
@@ -12,7 +14,7 @@
 
 > Install VS Code during the tutorial, it will be your main code editor
 
-- [ ] Fork this repository and start the exercices
+- [ ] Fork this repository and start the exercices (in order)
 
 > Exercises solutions should be organized in their own folders in the right day folder.
 > For example for exercise 01 for day 0 it should be in `day00/ex01/testDay00.tar`
