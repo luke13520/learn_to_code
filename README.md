@@ -12,7 +12,7 @@
 
 > Install VS Code during the tutorial, it will be your main code editor
 
-- [ ] Fork this repository and start the exercices
+- [ ] Fork this repository and start the exercices (in order)
 
 > Exercises solutions should be organized in their own folders in the right day folder.
 > For example for exercise 01 for day 0 it should be in `day00/ex01/testDay00.tar`
