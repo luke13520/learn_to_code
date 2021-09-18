@@ -29,6 +29,7 @@
 * Google and the command `man` are you best friends.
 * It's hard but it's normal, it's the everyday life of a developer. There are no shortcuts.
 * At no point the goal will be to learn a language. The goal is to learn to learn new concepts. Learning languages is not the hard part, it will come naturally.
+* Hello it's Luke here
 
 ## Table of contents
 
